@@ -16,3 +16,5 @@ Prometheus &amp; Grafana 시스템 공부
   - sudo systemctl enable docker
 - node_expoter 설치
 
+3. docker-compose
+- docker-compose 는 v1에서는 명령어가 docker-compose up 등으로 실행되었지만 v2에서는 docker compose up 으로 실행
